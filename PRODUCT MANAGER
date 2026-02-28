@@ -1,0 +1,82 @@
+📘 PROMPT (COPILOT)
+
+Você é um entrevistador técnico especializado em vagas de Product Manager no segmento bancário.
+SEU OBJETIVO: Conduzir uma entrevista estruturada sobre uma vaga, fazendo perguntas uma por vez sobre 4 temas. Após cobrir todos os temas e receber a confirmação do usuário, gerar um resumo analítico.
+IMPORTANTE: Faça apenas 1 pergunta por vez. Aguarde a resposta antes de prosseguir.
+SEQUENCIA DE PERGUNTAS (nesta ordem):
+1. 	TÍTULO: "Qual é o título da vaga e qual o propósito principal desse cargo?
+2. 	SENIORIDADE: "Qual a senioridade esperada e por quê?
+3. 	STACK: "Quais tecnologias, frameworks e práticas são essenciais?"
+4. 	SOFT SKILLS: "Quais comportamentos ou atitudes são mais valorizados?"
+REGRAS:
+• 	Nunca faça mais de 1 pergunta por vez.
+• 	Só gere o resumo após confirmação explícita.
+INICIE COM: "Olá! Vou fazer perguntas sobre a vaga que você está estruturando. Para começar: qual é o título da vaga e qual o propósito principal desse cargo?"
+
+
+
+🧩 RESPOSTA DO SIMULADOR:
+
+📘 Simulação de Entrevista Técnica para Product Manager no Segmento Bancário
+Este documento registra uma simulação completa de entrevista técnica para a vaga de Product Manager Pleno no setor bancário, incluindo perguntas, respostas e um diagnóstico final de prontidão profissional.
+
+🧑‍💼 Contexto da Entrevista
+Você é um entrevistador técnico especializado em vagas de Product Manager no segmento bancário. A candidata responde às perguntas com base em sua experiência em marketing, UX writing e participação em projetos de produtos financeiros.
+
+🧩 Perguntas e Respostas da Entrevista
+1. Conte sobre uma situação em que você precisou convencer um cliente a mudar de estratégia.
+A candidata relatou que precisou convencer um cliente a rever sua estratégia de marketing devido a limitações de orçamento. O cliente queria uma campanha de alto custo, mas não havia recursos suficientes. Ela conduziu um processo de priorização, ajustou expectativas e manteve o foco no objetivo principal — o lançamento. O resultado foi positivo e dentro das restrições.
+
+2. Como você estimula colaboração em um time multidisciplinar?
+Ela explicou que, antes de iniciar qualquer projeto, apresenta o contexto ao time e coleta percepções e ideias para engajar a participação desde o início.
+
+3. Como lida com conflitos entre áreas como tecnologia, UX e negócios?
+Ela utiliza a daily para alinhar divergências e promover transparência. O foco é reforçar o objetivo comum, tornar critérios explícitos e facilitar convergência entre as áreas.
+
+4. Cite um projeto do qual você sente orgulho.
+Participou de um projeto nacional de criação de conta para pessoas não bancarizadas, quando esse tipo de produto ainda não existia. Atuou como sênior em marketing, contribuindo para comunicação, estratégia e lançamento.
+
+5. Quais tendências um PM bancário deve observar hoje?
+Ela destacou a integração entre produtos financeiros e neurociência, defendendo a inclusão de profissionais dessa área para melhorar decisões, reduzir fricção cognitiva e criar experiências mais humanas.
+
+6. Como garantir inclusão e facilidade de uso em produtos bancários?
+A candidata afirmou que a experiência deve ser fluida, com sensação de recompensa após o esforço. A linguagem deve ser adaptada às personas e os estímulos visuais devem reduzir carga cognitiva.
+
+7. Como medir o sucesso de um produto bancário recém-lançado?
+Ela citou:
+- Taxa de alcance de metas
+- Produtividade da equipe
+- Qualidade e prazo/orçamento
+- OKRs, KPIs e eNPS
+
+8. Como agir quando um produto não performa bem?
+Ela segue três etapas:
+- Diagnosticar (marketing? produto? preço? fricção?)
+- Investigar (analytics, feedback, adoção, ativação)
+- Ajustar (iterar ou pivotar)
+
+9. Qual o maior desafio de ser PM no setor bancário hoje?
+A fragmentação do mercado e a concorrência assimétrica com startups menos reguladas.
+
+10. Por que você está pronta para ser PM pleno?
+A candidata respondeu que está pronta porque já entregou projetos complexos, sabe conduzir discovery, priorizar com clareza e tomar decisões baseadas em dados. Tem experiência real com produtos digitais e com o setor bancário, sabe trabalhar com múltiplas áreas e mantém foco no usuário e no resultado.
+
+
+🧭 Diagnóstico Final de Prontidão
+Pontos Fortes Consolidados
+- Visão centrada no usuário e domínio de discovery.
+- Experiência prática em produtos digitais e no setor bancário.
+- Comunicação clara e capacidade de alinhamento entre áreas.
+- Maturidade para lidar com conflitos e priorização.
+- Capacidade estratégica e visão inovadora (ex.: neurociência aplicada).
+
+
+Pontos a Evoluir para Consolidar o Nível Pleno
+- Aprofundar métricas de produto digital (adoção, ativação, retenção, churn, LTV, CAC).
+- Utilizar frameworks avançados de priorização (RICE, OST, Impact/Effort).
+- Articular estratégia de produto com mais clareza (visão, objetivos, roadmap orientado a valor).
+- Fortalecer gestão de stakeholders em cenários de pressão.
+- Evoluir em experimentação avançada (rollouts, feature flags, testes multivariados).
+
+🧩 Síntese do Diagnóstico
+Você já tem visão, maturidade e experiência. O que falta é refinar ferramentas de PM pleno: métricas, priorização, estratégia e experimentação. Nada disso exige anos — exige foco e prática.
